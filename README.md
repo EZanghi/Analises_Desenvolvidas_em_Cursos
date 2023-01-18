@@ -1,6 +1,7 @@
 # Projetos_Desenvolvidos_em_Cursos
+> Aqui estão alguns projetos e análises desenvolvidos por mim em meus estudos em Python aplicados a Análise de dados, Machine Learning e Data Science
 
-- [Pandas - ETL / Análise exploratória DIO](https://github.com/EZanghi/Projetos_Desenvolvidos_em_Cursos/tree/main/Projeto_Pandas_DIO)
-- [DNC - Deliverable 1 - Análise para escolha de 5 imóveis](https://github.com/EZanghi/Projetos_Desenvolvidos_em_Cursos/tree/main/DNC_Deliverable1_EDA-Escolha-de-Imoveis)
-- [DNC - Deliverable 2 - Análise para escolha de localização para nova loja](https://github.com/EZanghi/Projetos_Desenvolvidos_em_Cursos/tree/main/DNC_Deliverable2_EDA-Escolha-de-lojas)
-- [NLP - Análise de sentimento](https://github.com/EZanghi/Projetos_Desenvolvidos_em_Cursos/tree/main/NLP_Analise_Sentimento)
+- [Alura - NLP - Análise de sentimento](https://github.com/EZanghi/Analises_Desenvolvidas_em_Cursos/tree/main/NLP_Analise_Sentimento)
+- [DIO - Pandas - ETL / Análise exploratória](https://github.com/EZanghi/Analises_Desenvolvidas_em_Cursos/tree/main/DIO_Rotinas_ETL)
+- [DNC - Escolha de melhor investimeto em imoveis em King Country - Análise para escolha de 5 imóveis](https://github.com/EZanghi/Analises_Desenvolvidas_em_Cursos/tree/main/DNC_Escolha-de-imoveis)
+- [DNC - Análise para escolha de melhor localização de nova loja do Wallmart](https://github.com/EZanghi/Analises_Desenvolvidas_em_Cursos/tree/main/DNC_Nova-loja-Wallmart)
